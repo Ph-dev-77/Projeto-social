@@ -1,0 +1,25 @@
+.principal{
+    background-color: rgb(255, 255, 255);
+}
+.second-principal{
+    background-color: rgba(128, 128, 128, 0.389);
+    height: 100vh;
+    margin: 0 30px ;
+    border-radius: 5px;
+}
+header{
+    padding: 4% 15%;
+}
+h1{
+    text-align: center;
+}
+p{
+    flex-direction: column;
+    width: 615px;
+    text-align: center;
+    padding: 7% 28%;
+}
+footer{
+    padding: 4% 15%;
+    text-align: center;
+}
